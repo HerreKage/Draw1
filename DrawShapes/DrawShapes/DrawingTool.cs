@@ -7,6 +7,7 @@ namespace DrawShapes
     /// </summary>
     /// 
     // FUck dig
+    // Næh, fuck DIG!
     public static class DrawingTool
     {
         public static void DrawOneStar()
